@@ -1,0 +1,9 @@
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\bin\Debug\SoundRecorder.exe.config
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\bin\Debug\SoundRecorder.exe
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\bin\Debug\SoundRecorder.pdb
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.csprojAssemblyReference.cache
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.MainForm.resources
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.Properties.Resources.resources
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.csproj.GenerateResource.cache
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.exe
+C:\Users\wwwam\Documents\Repositorios\SoundRecorder\SoundRecorder\SoundRecorder\obj\Debug\SoundRecorder.pdb
