@@ -13,7 +13,7 @@ Visual Studio (2019 recomended).
 ### Installing
 
 1) Clone project
-2) Open "Build" folder 
+2) Open "Launcher" folder 
 3) Open SoundRecorder.exec
 
 ## Built With
